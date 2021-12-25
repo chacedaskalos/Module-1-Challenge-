@@ -17,9 +17,9 @@ The second analysis I did was the outcome of the fundraiser based on the fundrai
 
 ###Challenges and Difficulties Encountered
 
-##Results Two conclusions I can draw from Theater Outcomes by Launch Date is May, June, and July clearly had the most succesful Launch Dates, while May and October had the most failed. What does this mean? I think an interesting angle to take would be to look at the percentage of successful, failed, and canceled fundraisers based on Launch Date like we did with Outcomes Based on Goals. There were the most, exactly 166, "theater" campaigns launched in May so naturally there would be more successful and failed fundraisers in that month.
+##Results Two conclusions I can draw from Theater Outcomes by Launch Date is that May, June, and July clearly had the most succesful Launch Dates, while May and October had the most failed. What does this mean? I think an interesting angle to take would be to look at the percentage of successful, failed, and canceled fundraisers based on Launch Date like we did with Outcomes Based on Goals. There were the most, exactly 166, "theater" campaigns launched in May so naturally there would be more successful and failed fundraisers in that month.
 
-One conclusion to make from on Outcomes based on Goals is there was a VERY steep drop off in success rate for any goal over $44999. Goal range $45000 to $49999 has a 0% success rate (although only one sample) and fundraiser goal > $50000 has a 13% success rate (16 sample size). It appears essential to keep the fundraising goal tame and realistic.
+One conclusion to make from Outcomes based on Goals is there was a VERY steep drop off in success rate for any goal over $44999. Goal range $45000 to $49999 has a 0% success rate (although only one sample) and fundraiser goal > $50000 has a 13% success rate (16 sample size). It appears essential to keep the fundraising goal tame and realistic.
 
 A limitation of the data set is I think more data could be mined from "backers_count". It would be possible to find the average pledged based on backer just by dividing "pledged" by "backers_count", but average only tells one side of the story. More information about the backers would be essential, would help identify outliers, and could really help explain where the money is coming from and why.
 
